@@ -1,9 +1,9 @@
 <h2>Hello, geeks!🤓👾</h2>
 
 
-<p>🚀I'm Natália Bragança from Brazil based in Germany and I have just finished a full web stack development course at Le Wagon. As a full stack developer with knowledge in UX/UI Design, I have experience in end-to-end projects. This allows me to understand both business requirements and the necessary technical capabilities for project success.</p>
+<p>🚀 I'm Natália Bragança from Brazil based in Germany and I have just finished a full web stack development course at Le Wagon. As a full stack developer with knowledge in UX/UI Design, I have experience in end-to-end projects. This allows me to understand both business requirements and the necessary technical capabilities for project success.</p>
 
-<p>🎯I am focused on improving my understanding of software engineering and securing a position as a full-stack developer.</p>
+<p>🎯 I am focused on improving my understanding of software engineering and securing a position as a full-stack developer.</p>
 
 <h3>Languages and Tools:</h3>
 
