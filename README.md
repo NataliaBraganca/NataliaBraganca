@@ -25,3 +25,7 @@
 
 ...and always learning something new (🧶 knitting at the moment) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaBraganca&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaBraganca&layout=compact)](https://github.com/NataliaBraganca/github-readme-stats)
+
